@@ -22,7 +22,7 @@ if 'input_language' not in st.session_state:
     st.session_state.input_language = 'English'  # Default input language
 
 if 'output_language' not in st.session_state:
-    st.session_state.output_language = 'Hindi'  # Default output language
+    st.session_state.output_language = 'Bhojpuri'  # Default output language
 
 # Functions
 def translator():
