@@ -7,8 +7,7 @@ st.set_page_config(
     page_icon='🌍',
     layout="centered"
 )
-# Add a Markdown component to display the greeting
-#st.markdown("### Hi, My name is Nadeem and this app is developed by me")
+
 
 links_row = "<a href='https://www.linkedin.com/in/nadeem-akhtar-/' target='_blank'>" \
             "<img src='https://img.icons8.com/color/48/000000/linkedin.png' width='30'></a>" \
